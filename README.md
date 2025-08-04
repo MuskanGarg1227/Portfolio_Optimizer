@@ -38,7 +38,7 @@ Covariance Heatmap
 Efficient Frontier
 ![efficient_frontier](https://github.com/user-attachments/assets/9f193871-952d-4543-983d-9ae7feff1820)
 
-VaR Histograms
+
 Max Sharpe Var Histogram
 ![Max Sharpe_var_histogram](https://github.com/user-attachments/assets/fbaf0430-b4bd-4594-8858-a36599d0ce87)
 
