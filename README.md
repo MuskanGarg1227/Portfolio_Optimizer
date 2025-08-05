@@ -6,7 +6,7 @@ It allows users to:
 2. Visualize correlation and covariance matrices
 3. Simulate thousands of portfolios (Monte Carlo)
 4. Optimize for Max Sharpe or Min Volatility
-5. Calculate risk metrics like VaR, Sortino Ratio, Jensen's Alpha, and Max Drawdown
+5. Calculate risk metrics like VaR, Sortino Ratio, Jensen's Alpha.
 6. View interactive plots and download reports
 
 Features:
